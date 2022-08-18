@@ -46,6 +46,7 @@ class Home extends StatelessWidget {
               ),
             ),
             const Text(
+
               'Sneaker ||',
               style: TextStyle(
                   fontWeight: FontWeight.bold, color: Colors.black, fontSize: 25),
